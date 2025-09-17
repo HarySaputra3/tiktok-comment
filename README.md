@@ -54,9 +54,9 @@ Ikuti langkah-langkah ini untuk menjalankan proyek di komputer Anda.
 
 **1. Clone Repositori**
 ```
-git clone https://github.com/harysaputra3/tiktok-comment.git
+git clone https://github.com/HarySaputra3/tiktok-comment.git
 
-cd nama-proyek
+cd tiktok-comment
 ```
 
 **2. Siapkan Environment & Install Dependencies**
