@@ -1,0 +1,12 @@
+# Framework untuk Command-line & Web Server
+click
+Flask
+
+# Library untuk Data & Scraper
+requests
+pandas
+jmespath
+loguru
+
+# Library untuk Analisis Sentimen
+vaderSentiment
